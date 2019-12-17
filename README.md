@@ -8,6 +8,6 @@ Tumult Hype Community Experts sharing their knowledge and insights.
 
 ---
 
-![](https://hypecookbook.de/media/uploads/xiVEPsjZYHF3.jpg)
+![](https://hypecookbook.de/media/uploads/xiVEPsjZYHF3.jpg?v2)
 
 
