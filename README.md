@@ -1,4 +1,4 @@
-# HypeCookBook
+# Hype CookBook
 
 Tumult Hype Community Experts sharing their knowledge and insights.
 
