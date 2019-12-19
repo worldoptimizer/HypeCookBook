@@ -8,6 +8,7 @@ Tumult Hype Community Experts sharing their knowledge and insights.
 
 ---
 
-![](https://hypecookbook.de/media/uploads/xiVEPsjZYHF3.jpg?v2)
+![](https://hypecookbook.de/media/uploads/xiVEPsjZYHF3.jpg)
+<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
 
 
