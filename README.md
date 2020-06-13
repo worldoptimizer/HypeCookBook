@@ -10,10 +10,3 @@ Tumult Hype Community Experts sharing their knowledge and insights.
 ---
 
 [Enter the Wiki](https://github.com/worldoptimizer/HypeCookBook/wiki)
-
----
-
-
-<sup>The cover artwork is not hosted in this repository and &copy;opyrighted by Max Ziebell</sup>
-
-
